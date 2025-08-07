@@ -1,4 +1,1 @@
-master1
-feature_x
-Hello Git
-Hello ShenZhen
+Good
