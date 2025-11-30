@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Good
 Sun
 Moon
@@ -13,3 +12,4 @@ feature_x
 Hello ShenZhen
 Feature_x
 feature_x
+222222222222222222222222222222
